@@ -1,0 +1,13 @@
+User name,Password,Console sign-in URL
+m.hamdy@zeroandone.me,5rjJ&1gY6Fi@,https://finx-dev.signin.aws.amazon.com/console
+
+
+
+
+aws eks update-kubeconfig --name finx-dev-main-cluster  --region me-south-1 --alias finx-dev-cluster
+
+
+hjgjhghgj
+
+
+
