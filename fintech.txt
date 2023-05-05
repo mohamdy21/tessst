@@ -10,4 +10,4 @@ aws eks update-kubeconfig --name finx-dev-main-cluster  --region me-south-1 --a
 hjgjhghgj
 ghfghfhgf
 
-
+kjh
